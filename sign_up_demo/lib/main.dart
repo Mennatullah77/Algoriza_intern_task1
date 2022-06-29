@@ -89,10 +89,7 @@ class _LoginDemoState extends State<LoginDemo> {
                   label: const Text(
                     'Help',),
                   icon: Icon(Icons.question_mark_outlined , size: 20, color: Colors.blue),
-                  /**style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w400,
-                      fontFamily: 'Roboto-Light'), **/
+                  
                 ),
               ],
             ),
